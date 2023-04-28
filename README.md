@@ -1,13 +1,14 @@
-<h1 align="center"> JavaScript-from-Zero-to-Hero-GrupoBoticario-Alura--Consumnindo-API-ViaCEP</h1>
+<h1 align="center">JavaScript-from-Zero-to-Hero-GrupoBoticario-Alura--Consumnindo-API-ViaCEP</h1>
 
-![logo JavaScript](https://github.com/Erickmts10/JavaScript-from-Zero-to-Hero-GB-Alura-parte-3/blob/main/Logo/Logo.png)
-![logo JavaScript](https://github.com/Erickmts10/JavaScript-from-Zero-to-Hero-GB-Alura-parte-3/blob/main/Logo/nodejs-2-logo.png)
+![logo JavaScript](https://github.com/Erickmts10/JavaScript-GB-Alura-API-ViaCEP/blob/main/Logo/JavaScript%20logo.png)
+![logo JavaScript](https://github.com/Erickmts10/JavaScript-GB-Alura-API-ViaCEP/blob/main/Logo/HTML5_logo.png)
+![logo JavaScript](https://github.com/Erickmts10/JavaScript-GB-Alura-API-ViaCEP/blob/main/Logo/css3-logo.png)
 
 <h3>:star: Descrição do Projeto</h3>
  
-JavaScript:consumindo e tratando dados de uma API
+JavaScript: Consumindo e tratando dados de uma API
 
-Exercício formulado com o objetivo de introduzir o conceito, de como consumir a API via CEP e aplicar em formulário com o alto completar dos campos logradouro, cidade, bairro e endereço.
+Exercício formulado com o objetivo de introduzir o conceito de como consumir a API via CEP, e aplicar em formulário com o auto completar dos campos logradouro, cidade, bairro e endereço.
 
 <h3>:heavy_check_mark:Tecnologias utilizadas</h3>
 
